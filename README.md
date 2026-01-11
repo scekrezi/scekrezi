@@ -1,13 +1,13 @@
 # Hi, I'm Sindi 👋
 
-🚀 Aspiring Software Engineer | 🎓 B.S. in Computer Science & Information Systems  
+Aspiring Software Engineer | 🎓 B.S. in Computer Science & Information Systems  
 
 I’m transitioning into **Software Engineering**, with a strong focus on **backend development using Java**.  
 Currently training through an intensive **Dev10 Software Developer program**, where I’m strengthening my skills in object-oriented programming, application design, and problem-solving using **Java and SQL**.
 
 I enjoy writing clean, maintainable code and turning real-world requirements into working applications.
 
-## 🔧 Skills
+##  Skills
 
 ### Programming Languages
 - Java (OOP, Collections, Exceptions, JDBC)
@@ -35,6 +35,6 @@ I enjoy writing clean, maintainable code and turning real-world requirements int
 - Debugging & clean code practices
 
 
-## 📫 Connect
+##  Connect
 - [LinkedIn](https://www.linkedin.com/in/sindicekrezi/)  
 - 📧 Email: **s.cekrezi@icloud.com**
