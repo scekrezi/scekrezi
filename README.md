@@ -14,7 +14,7 @@ I enjoy writing clean, maintainable code and turning real-world requirements int
 - SQL (joins, subqueries)
 
 ### Backend Development
-- Spring Boot (REST APIs, service & repository layers – learning)
+- Spring Boot (REST APIs, service & repository layers)
 - Application layering (controller, service, repository)
 
 ### Databases
@@ -23,15 +23,15 @@ I enjoy writing clean, maintainable code and turning real-world requirements int
 - CRUD operations & joins
 
 ### Developer Tools
-- Git & GitHub (branching, pull requests)
+- Git & GitHub 
 - IntelliJ IDEA
 - DBeaver
-- JUnit (unit testing fundamentals)
+- JUnit 
 
 ### Core Concepts
 - Object-Oriented Programming (OOP)
 - MVC & layered architecture
-- Data structures & algorithms (foundations)
+- Data structures & algorithms 
 - Debugging & clean code practices
 
 
