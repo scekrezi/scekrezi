@@ -1,38 +1,85 @@
 # Hi, I'm Sindi 👋
 
-Aspiring Software Engineer | 🎓 B.S. in Computer Science & Information Systems  
+Full Stack Developer | Java, Spring Boot, Angular, .NET, Azure | Building scalable web applications and REST APIs
 
-I’m transitioning into **Software Engineering**, with a strong focus on **backend development using Java**.  
-Currently training through an intensive **Dev10 Software Developer program**, where I’m strengthening my skills in object-oriented programming, application design, and problem-solving using **Java and SQL**.
+I’m a Software Developer with professional experience building enterprise applications using .NET, Angular, REST APIs, SQL Server, Azure, and CI/CD. My development background also includes Java, Spring Boot, MySQL, React, JUnit, Mockito, and layered backend architecture. I enjoy building maintainable applications, solving backend/API problems, and continuing to grow in cloud and AI-assisted software development.
 
-I enjoy writing clean, maintainable code and turning real-world requirements into working applications.
+## Skills
 
-##  Skills
+### Languages
 
-### Programming Languages
-- Java (OOP, Collections, Exceptions, JDBC)
-- SQL (joins, subqueries)
+* Java
+* C#
+* JavaScript / TypeScript
+* SQL
+* HTML / CSS
+* Python
 
-### Backend Development
-- Spring Boot (REST APIs, service & repository layers)
-- Application layering (controller, service, repository)
+### Backend
+
+* Spring Boot
+* Spring Framework
+* .NET / ASP.NET
+* REST API Development
+* Entity Framework
+* Maven
+* JUnit & Mockito
+* Layered Architecture
+* Authentication & Authorization
+
+### Frontend
+
+* Angular
+* React
+* TypeScript
+* JavaScript
+* HTML / CSS
+* REST API Integration
 
 ### Databases
-- MySQL
-- Relational schema design & normalization
-- CRUD operations & joins
 
-### Developer Tools
-- Git & GitHub 
-- IntelliJ IDEA
-- DBeaver
-- JUnit 
+* MySQL
+* SQL Server
+* Relational Database Design
+* CRUD Operations
+* SQL Queries & Joins
+
+### Cloud & DevOps
+
+* Microsoft Azure
+* Azure App Service
+* Azure DevOps
+* Microsoft Entra ID
+* CI/CD
+* Git & GitHub
+
+### Testing & Tools
+
+* Unit Testing
+* Integration Testing
+* Postman
+* Swagger
+* IntelliJ IDEA
+* Visual Studio
+* VS Code
+* DBeaver
+
+### AI-Assisted Development
+
+* Anthropic Claude
+* Claude Code
+* AI-Assisted Code Analysis
+* AI-Assisted Debugging & Testing
 
 ### Core Concepts
-- Object-Oriented Programming (OOP)
-- MVC & layered architecture
-- Data structures & algorithms 
-- Debugging & clean code practices
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Java Collections
+* RESTful API Design
+* Agile / Scrum
+* Debugging & Root-Cause Analysis
+* Clean Code & Maintainable Software Design
 
 
 ##  Connect
